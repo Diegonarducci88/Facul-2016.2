@@ -17,3 +17,4 @@ def busca_bin(x,v):
 busca_bin(9,lista)
 
 #n de iteracoes 1 + log2n
+#aa
